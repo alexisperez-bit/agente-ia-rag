@@ -23,3 +23,12 @@ El flujo de datos del agente sigue la arquitectura de Generación Aumentada por 
 2. Instala las dependencias necesarias:
    ```bash
    pip install -r requirements.txt
+
+:camera_with_flash: Demostración en Acción
+Aquí puedes ver cómo el agente responde a las preguntas del usuario basándose exclusivamente en el documento proporcionado:
+
+Politica puntual sobre politica de RRHH
+<img width="893" height="408" alt="image" src="https://github.com/user-attachments/assets/eecf8bd0-3f4f-459a-a9ac-7ec04f9ff466" />
+
+Pregunta ramdom
+<img width="881" height="266" alt="image" src="https://github.com/user-attachments/assets/b1371fe4-4076-4404-9958-9a119c3acca8" />
